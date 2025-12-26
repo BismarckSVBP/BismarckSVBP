@@ -1,16 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Abhay+Kumar;Full+Stack+Developer;Competitive+Programmer;SDE+Aspirant" alt="Typing SVG" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Abhay%20Kumar&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=&descAlignY=51&descAlign=62" width="100%" alt="Abhay Kumar" />
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Competitive+Programmer+(Max+1704);SDE+Intern+%40+Zelosify;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+
   <br />
 
-  <a href="https://linkedin.com/in/abhay-kumar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://linkedin.com/in/abhay-kumar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:bismarcksvbp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://bismarcksvbp.github.io/portfolio/abhay-kumar">
-    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-20232A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
@@ -18,12 +22,11 @@
 
 ### 👨‍💻 About Me
 
-I am a final-year **Computer Science & Engineering** undergraduate at **Madan Mohan Malaviya University of Technology** (2023–2027) with a CGPA of **8.28**. I specialize in building scalable **Full-Stack** applications and have a strong command of **Data Structures & Algorithms**.
+[cite_start]I am a final-year **Computer Science & Engineering** undergraduate at **Madan Mohan Malaviya University of Technology** (2023–2027) with a current CGPA of **8.28**[cite: 4, 5, 9]. I specialize in building scalable **Full-Stack** applications and have a strong command of **Data Structures & Algorithms**.
 
-- 💼 **Experience:** Former **SDE Intern at Zelosify** (Oct '25 – Nov '25), where I built multi-tenant notification systems.
-- 🔭 **Currently:** Integrating **WebRTC** and **Microservices** into real-world applications.
-- 🏆 **Competitive Programming:** **CodeChef 1704** (3★) | **Codeforces Pupil** (1333) | **LeetCode 500+** Solved.
-- 💬 **Ask Me About:** React, Node.js, System Design, and C++.
+* [cite_start]💼 **Experience:** Former **SDE Intern at Zelosify** (Oct '25 – Nov '25), where I integrated multi-tenant real-time notification systems and vendor modules[cite: 7, 11, 13, 14].
+* [cite_start]🔭 **Current Focus:** Microservices Architecture, Real-Time Communication (WebRTC), and System Design[cite: 16, 28].
+* 🏆 **Competitive Coding:** **CodeChef 1704** (3★) | **Codeforces Pupil** (1333) | [cite_start]**LeetCode 500+** Solved[cite: 37, 38, 39].
 
 ---
 
@@ -31,13 +34,13 @@ I am a final-year **Computer Science & Engineering** undergraduate at **Madan Mo
 
 <div align="center">
 
-| **Languages** | **Frontend** | **Backend** |
+| **Languages** | **Frontend** | **Backend & Real-Time** |
 | :---: | :---: | :---: |
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) | ![Node](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Socket](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) |
+| ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) | ![Node](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Socket](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white) |
 
-| **Databases** | **DevOps & Tools** | **Concepts** |
+| **Databases** | **DevOps & Tools** | **Core Concepts** |
 | :---: | :---: | :---: |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | ![Algorithms](https://img.shields.io/badge/DSA-C++-orange) ![System Design](https://img.shields.io/badge/System-Design-blue) |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | ![Algorithms](https://img.shields.io/badge/DSA-C++-orange) ![OS](https://img.shields.io/badge/Operating_Systems-blue) ![CN](https://img.shields.io/badge/Computer_Networks-blue) |
 
 </div>
 
@@ -45,25 +48,25 @@ I am a final-year **Computer Science & Engineering** undergraduate at **Madan Mo
 
 ### 🚀 Featured Projects
 
-| 🚨 **SOS Alert** | 🚆 **Train Tracker** |
+| 🚨 **[SOS Alert](https://github.com/BismarckSVBP/SOS-Alert)** | 🚆 **[Train Tracker](https://github.com/BismarckSVBP/Train-Tracker)** |
 | :--- | :--- |
-| **Tech:** React, Node.js, WebRTC, MongoDB | **Tech:** React, Node.js, Express, APIs |
-| A real-time emergency response system enabling **live video/audio streaming** and location sharing. Includes **JWT Auth**, **Cloudinary** for evidence, and automated alerts to emergency contacts. | A live train tracking application integrating location APIs for movement updates. Features a **mock coach layout** and simulated **PNR status checks** to demonstrate backend data flow. |
-| [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/BismarckSVBP/SOS-Alert) | [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/BismarckSVBP/Train-Tracker) |
+| [cite_start]**Tech:** React, Node.js, WebRTC, MongoDB, Socket.IO [cite: 16] | [cite_start]**Tech:** React, Node.js, Express, APIs [cite: 22] |
+| [cite_start]• **Real-Time Streaming:** Enabled live video/audio & location broadcasting via WebRTC [cite: 18][cite_start].<br>• **Emergency:** Auto-alerts to emergency contacts with live navigation [cite: 19][cite_start].<br>• **Security:** JWT Auth, OTP signup, and Cloudinary storage[cite: 20]. | [cite_start]• **Live Tracking:** Integrated location APIs for accurate movement updates [cite: 24][cite_start].<br>• **Simulation:** Simulated PNR status checks to demonstrate backend data flow [cite: 24][cite_start].<br>• **UI:** Interactive mock coach layout interface[cite: 25]. |
+| [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BismarckSVBP/SOS-Alert) | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BismarckSVBP/Train-Tracker) |
 
 ---
 
-### 🏆 Competitive Programming & Achievements
+### 🏆 Achievements & Coding Profiles
 
 <div align="center">
 
-| Platform | Rating / Rank | Profile |
+| Platform | Rating / Rank | Profile Link |
 | :--- | :--- | :---: |
-| **CodeChef** | **1704** (Max Rating) | [Profile](https://www.codechef.com/users/BismarckSVBP) |
-| **Codeforces** | **Pupil** (Max: 1333) | [Profile](https://codeforces.com/profile/BismarckSVBP) |
-| **LeetCode** | **500+** Problems Solved | [Profile](https://leetcode.com/BismarckSVBP) |
-| **TCS CodeVita** | **Rank 1763** (Season 13, R2) | 🏅 |
-| **GitHub Event** | **2nd Rank** | 🥈 |
+| **CodeChef** | [cite_start]**Max Rating: 1704** (3 Star) [cite: 37] | [<img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white">](https://www.codechef.com/users/BismarckSVBP) |
+| **Codeforces** | [cite_start]**Pupil** (Max Rating: 1333) [cite: 39] | [<img src="https://img.shields.io/badge/-Codeforces-445f9d?style=flat&logo=codeforces&logoColor=white">](https://codeforces.com/profile/BismarckSVBP) |
+| **LeetCode** | [cite_start]**500+** Problems Solved [cite: 38] | [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black">](https://leetcode.com/BismarckSVBP) |
+| **TCS CodeVita** | [cite_start]**Rank 1763** (Season 13, Round 2) [cite: 36] | 🏅 |
+| **GitHub Event** | [cite_start]**Secured 2nd Rank** [cite: 40] | 🥈 |
 
 </div>
 
@@ -83,5 +86,5 @@ I am a final-year **Computer Science & Engineering** undergraduate at **Madan Mo
 ---
 
 <div align="center">
-  <small>Open to <b>SDE Intern / Full-time</b> opportunities. Let's build something amazing!</small>
+  <small>Open to <b>SDE Intern / Full-time</b> opportunities. Let's build something amazing together!</small>
 </div>
