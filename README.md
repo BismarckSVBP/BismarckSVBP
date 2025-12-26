@@ -30,15 +30,6 @@ I am a final-year **Computer Science & Engineering** undergraduate at **Madan Mo
 * 🏆 **Coding:** **CodeChef 1704** (3★) | **Codeforces Pupil** | **LeetCode 500+**.
 
 ---
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Abhay%20Kumar&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=&descAlignY=51&descAlign=62" width="100%" alt="Abhay Kumar" />
-
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Competitive+Programmer+(Max+1704);SDE+Intern+%40+Zelosify;Open+Source+Enthusiast" alt="Typing SVG" />
-  </a>
-
-  <br />
----
 
 ### 🛠️ Technical Skills
 
