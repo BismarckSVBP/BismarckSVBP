@@ -38,20 +38,6 @@ I am a final-year **Computer Science & Engineering** undergraduate at **Madan Mo
   </a>
 
   <br />
-
-<a href="https://linkedin.com/in/abhay-kumar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bismarcksvbp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://bismarcksvbp.github.io/portfolio/abhay-kumar">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-20232A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<br />
-
 ---
 
 ### 🛠️ Technical Skills
