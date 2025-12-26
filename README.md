@@ -8,7 +8,7 @@
 
 <br />
 
-<a href="https://linkedin.com/in/abhay-kumar">
+<a href="https://www.linkedin.com/in/abhay-kumar-4aa26b282">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://bismarcksvbp.github.io/portfolio/abhay-kumar">
+<a href="https://portfolio-website-frontend-phi.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
 
@@ -70,9 +70,9 @@ I am a **Computer Science & Engineering undergraduate (2023–2027)** at **Madan
 
 | Platform | Achievement | Profile |
 | :--- | :--- | :---: |
-| **CodeChef** | 3★ (Max Rating: 1704) | [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/BismarckSVBP) |
-| **Codeforces** | Pupil (Max Rating: 1333) | [![Codeforces](https://img.shields.io/badge/-Codeforces-445f9d?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/BismarckSVBP) |
-| **LeetCode** | 500+ Problems Solved | [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/BismarckSVBP) |
+| **CodeChef** | 3★ (Max Rating: 1704) | [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/agent_x9) |
+| **Codeforces** | Pupil (Max Rating: 1333) | [![Codeforces](https://img.shields.io/badge/-Codeforces-445f9d?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhaykumar85) |
+| **LeetCode** | 500+ Problems Solved | [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Abhay--Kumar) |
 | **TCS CodeVita** | Rank 1763 (Season 13 – Round 2) | 🏅 |
 | **GitHub Event** | 2nd Rank | 🥈 |
 
@@ -85,15 +85,6 @@ I am a **Computer Science & Engineering undergraduate (2023–2027)** at **Madan
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BismarckSVBP&theme=tokyonight&hide_border=true" />
 </div>
-
----
-
-## 🤝 Let’s Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/abhay-kumar  
-- 💻 GitHub: https://github.com/BismarckSVBP  
-- 📧 Email: bismarcksvbp@gmail.com  
-- 🌐 Portfolio: https://bismarcksvbp.github.io/portfolio/abhay-kumar  
 
 ---
 
