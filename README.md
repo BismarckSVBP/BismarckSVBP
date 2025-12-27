@@ -32,9 +32,7 @@
 
 I am a **Computer Science & Engineering undergraduate (2023–2027)** at **Madan Mohan Malaviya University of Technology**, with a strong foundation in **Data Structures, Algorithms, and Core CS fundamentals**, combined with hands-on experience in **full-stack and real-time systems**.
 
-- 💼 **Experience:** **Back-End & Cloud Intern @ GateX Innovations
-
-Pvt. Ltd.** | Former **SDE Intern at Zelosify** (Oct 2025 – Nov 2025)
+- 💼 **Experience:** **Back-End & Cloud Intern @ GateX Innovations Pvt. Ltd.** | Former **SDE Intern at Zelosify** (Oct 2025 – Nov 2025)
 - 🛠️ **Tech Focus:** MERN Stack, WebRTC, Microservices, Event-Driven Architecture
 - 🏆 **Competitive Programming:** CodeChef **3★ (1704)** | Codeforces **Pupil** | **500+** LeetCode problems
 
