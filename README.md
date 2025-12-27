@@ -59,14 +59,6 @@ I am a **Computer Science & Engineering undergraduate (2023–2027)** at **Madan
 | :--- | :--- |
 | **Tech:** React, Node.js, WebRTC, MongoDB, Socket.IO | **Tech:** React, Node.js, Express |
 | • Live video, audio & location sharing using WebRTC.<br>• Automated SOS alerts to emergency contacts.<br>• JWT authentication, OTP-based signup.<br>• Cloudinary media uploads & admin dashboard with CSV/PDF exports. | • Real-time train movement tracking using location APIs.<br>• PNR status simulation to demonstrate backend flow.<br>• Interactive coach & seat layout UI. |
-| [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BismarckSVBP/SOS-Alert) | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BismarckSVBP/Train-Tracker) |
-
-## 🚀 Featured Projects
-
-| 🚨 **SOS Alert System** | 🚆 **Train Tracker** |
-| :--- | :--- |
-| **Tech:** React, Node.js, WebRTC, MongoDB, Socket.IO | **Tech:** React, Node.js, Express |
-| • Live video, audio & location sharing using WebRTC.<br>• Automated SOS alerts to emergency contacts.<br>• JWT authentication, OTP-based signup.<br>• Cloudinary media uploads & admin dashboard with CSV/PDF exports. | • Real-time train movement tracking using location APIs.<br>• PNR status simulation to demonstrate backend flow.<br>• Interactive coach & seat layout UI. |
 | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BismarckSVBP/SOS-Alert) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-007bff?style=flat-square&logo=google-chrome&logoColor=white)](https://sos-alert-beta.vercel.app) | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BismarckSVBP/Train-Tracker) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-007bff?style=flat-square&logo=google-chrome&logoColor=white)](https://train-tracker-beta.vercel.app) |
 ---
 
