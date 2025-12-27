@@ -80,12 +80,4 @@ I am a **Computer Science & Engineering undergraduate (2023–2027)** at **Madan
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BismarckSVBP&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ⭐ *If you like my work, consider starring the repositories!*
