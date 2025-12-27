@@ -80,8 +80,6 @@ I am a **Computer Science & Engineering undergraduate (2023–2027)** at **Madan
 | **Codeforces** | Pupil (Max Rating: 1333) | [![Codeforces](https://img.shields.io/badge/-Codeforces-445f9d?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhaykumar85) |
 | **LeetCode** | 500+ Problems Solved | [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Abhay--Kumar) |
 | **TCS CodeVita** | Rank 1763 (Season 13 – Round 2) | 🏅 |
-| **GitHub Event** | 2nd Rank | 🥈 |
-
 </div>
 
 ---
