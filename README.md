@@ -68,9 +68,9 @@ I am a **Computer Science & Engineering undergraduate (2023–2027)** at **Madan
 
 | Platform | Achievement | Profile |
 | :--- | :--- | :---: |
-| **CodeChef** | 3★ (Max Rating: 1704) | [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/agent_x9) |
+| **CodeChef** | 3★ (Max Rating: 1720) | [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/agent_x9) |
 | **Codeforces** | Pupil (Max Rating: 1333) | [![Codeforces](https://img.shields.io/badge/-Codeforces-445f9d?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhaykumar85) |
-| **LeetCode** | 500+ Problems Solved | [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Abhay--Kumar) |
+| **LeetCode** | 900+ Problems Solved | [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Abhay--Kumar) |
 | **TCS CodeVita** | Rank 1763 (Season 13 – Round 2) | 🏅 |
 </div>
 
