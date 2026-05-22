@@ -35,7 +35,7 @@ I am a **Computer Science & Engineering undergraduate (2023–2027)** at **Madan
 - 💼 **Experience:** Back-End & Cloud Intern at **GateX Innovations Pvt. Ltd.** | Former **SDE Intern at Zelosify**
 - 🛠️ **Tech Focus:** MERN Stack, WebRTC, Microservices, Event-Driven Architecture, Real-Time Systems
 - 🏆 **Competitive Programming:** CodeChef **4★ (1824)** | Codeforces **Specialist (1539)** | LeetCode **Knight (1912)**
-- 📚 Solved **1000+ DSA problems** across multiple coding platforms
+- 📚 Solved **1300+ DSA problems** across multiple coding platforms
 
 ---
 
@@ -74,7 +74,7 @@ I am a **Computer Science & Engineering undergraduate (2023–2027)** at **Madan
 | **CodeChef** | 4★ (Max Rating: 1824) | [Profile](https://www.codechef.com/users/agent_x9) |
 | **Codeforces** | Specialist (Max Rating: 1539) | [Profile](https://codeforces.com/profile/abhaykumar85) |
 | **LeetCode** | Knight (Max Rating: 1912) • 1000+ Problems Solved | [Profile](https://leetcode.com/Abhay--Kumar) |
-| **TCS CodeVita** | Global Rank 1763 (Season 13 – Round 2) | 🏅 |
+| **TCS CodeVita** | Global Rank 1764 (Season 13 – Round 2) | 🏅 |
 
 </div>
 
